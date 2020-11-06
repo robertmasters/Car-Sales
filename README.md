@@ -52,6 +52,7 @@ This project was put together using create-react-app (CRA). You will not need to
 
 **Step 2 - And... Action! 🎬**
 
+
 - Time to get your hands on your keyboard. Look at the first step you wrote down and start implementing!
 - As you work through setting up redux, you can do it however you'd like. This is the flow that works for me:
 
